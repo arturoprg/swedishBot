@@ -1,0 +1,408 @@
+25
+-Verbs
+lär sig		learn		4
+lär		teach		5
+klättrar		climb		3
+tältar		camp (V)		2
+hoppar		jump		4
+bakar		bake		3
+rider		ride		5
+Springer		run		3
+Besöker		visit		4
+Simmar		Swim		5
+växter		grow		3
+dör		die		3
+föder		bear (verb)		4
+börjar		begin		5
+ser		see		4
+skriver		write		7
+bygger		build		4
+slutar		end		4
+vaknar		wake up		2
+berättar		tell		2
+känner		feel/think		4
+älskar		love		5
+kommer		come		4
+pluggar		study (not formal)		4
+jobbar		work		5
+åker		go (vehicle)		5
+firar		celebrate		4
+tränar		Train		3
+dansar		dance	4
+pratar	speak	4
+delar	share	5
+laggar	lay	4
+körar	drive	3
+
+ringer	call	4
+beställer	order	3
+stänger	close	4
+
+köper	buy	3
+läser	read	3
+reser	travel	3
+
+
+bor	live	4
+mår	feel	4
+syr	sew	4
+
+äter	eat	6
+dricker	drink	4
+är	be	4
+går	walk	4
+sover	sleep	4
+gör	do	3
+ger	give	4
+skriver	write	7
+ser	see	4
+
+kan	can/be able to	5
+vill	want to	3
+ska	will/shall	6
+måste	have to	5
+behöver	need to	3
+får	get/be allowed to	6
+
+
+-Numeros
+trettioförsta		thrity-first		1
+trettionde		thirtieth		3
+tjugonionde		twenty-ninth		4
+tjugoåttonde		twenty-eighth		2
+tjugosjunde		twenty-seventh		5
+tjugosjätte		twenty-sixth		1
+tjugofemte		twenty-fifth		4
+tjugofjärde		twenty-fourth		0
+tjugotredje		twenty-third		2
+tjugoandra		twenty-second		4
+tjugoförsta		twenty-first		5
+tjugonde		twentieth		4
+fjortonde		fourteenth		2
+trettonde		thirteenth		4
+tolfte		twelfth		3
+elfte		eleventh		3
+tionde		tenth		4
+nionde		ninth		4
+åttonde		eighth		2
+sjunde		seventh		5
+sjätte		sixth		1
+femte		fifth		4
+fjärde		fourth		2
+tredje		third		2
+andra		second		4
+första		first		2
+Ett	One	4
+två	two	5
+TRe	three	5
+fyra	four	6
+fem	five	5
+sex	six	4
+sju	seven	4
+åtta	eight	3
+nio	nine	4
+tio	ten	4
+elva	eleven	3
+tolv	twelve	3
+tretton	thirteen	3
+fjorton	fourteen	2
+femton	fifteen	5
+sexton	sixteen	5
+sjutton	seventeen	4
+arton	eighteen	3
+nitton	nineteen	3
+tjugo	twenty	3
+tjugoett	twenty one	4
+tjugotvå	twenty two	5
+tjugotre	twenty three	5
+tjugofyra	twenty four	6
+tjugofem	twenty five	5
+tjugosex	twenty six	3
+tjugosju	twenty seven	3
+tjugoåtta	twenty eight	3
+tjugonio	twenty nine	4
+trettio		thirty		5
+fyrtio		forty		3
+tusen		thousand		3
+en miljon	a million	3
+noll		cero		4
+HUndra		Hundred		3
+NIttio		Ninety		2
+ÅTtio		Eighty		5
+SJuttio		Seventy		3
+SExtio		Sixty		3
+FEmtio		Fifty		4
+
+-Ordförråd
+två gånger		twice		3
+en gång		once		1
+ett par kalsonger		a pair of underpants		1
+ett linne		a interior shirt		2
+ett par strumpor		a pair of socks		1
+en tröja		a sweater		1
+en skjorta		a shirt		1
+en kavaj		a suit jacket		1
+en bh		a bra		0
+ett par skor		a pair of shoes		1
+en slips		a tie		1
+en kjol		a skirt		0
+ett par trosor		a pair of panties		0
+en jacka		a jacket		1
+en mössa		a hat		0
+ett par byxor		a pair of trousers		1
+en kostnad		a cost		0
+en möbel		a piece of forniture		1
+ett lakan		a bed sheet		2
+en säng		a bed		1
+en madrass		a mattress		2
+ett täcke		a duvet		1
+ett påslakan		a duvet cover		0
+ett örngott		a pillowcase		2
+en underlakan		an undersheet		0
+en kudde		a pilow		0
+en gylf		a fly		0
+en ko		a cow		1
+ett språk		a language		2
+en hylla	a shelf	1
+självklart	of course	0
+den här	this one	1
+den där	that one	3
+de här	these	2
+de där	those	2
+ett leg	an ID	2
+en bio	a cinema	2
+ett glas		a glass		5
+en morot		a carrot		2
+ett bröd		a bread		3
+en soppa		a soup		3
+en räka		a shrimp		2
+en ost		a cheese		2
+en hamburgare		a hamburger		5
+en näsduk		a tissue		2
+ett godis		a candy		2
+rakt fram		straight ahead		1
+en bit		a piece		2
+vänster		left (direction)		4
+höger		right (direction)		4
+en gullök		an onion		3
+en vitlök		a garlic		3
+en purjolök		a leek		3
+en gurka		a cucumber		3
+en paprika		a pepper		3
+ett päron		a pear		3
+ett dammsugare		a vacuun cleaner		3
+ett paket		a packet		0
+ett äpple		an apple		1
+ett frimärke		a stamp		3
+en banan		a banana		4
+en apelsin		an orange		1
+en kopp		a cup		2
+en bulle		a bun		3
+en smörgås		a sandwitch		4
+en tidning		a newspaper		4
+en påse		a bag		2
+en glass		an ice cream		2
+en ruta		a square		3
+en pizza		a pizza		4
+en persika		a peach		1
+en dosa		a can		0
+en chokladkaka		a chocolate cake		3
+en druva		a grape		5
+ett problem		a problem		4
+ett kvitto		a receipt		3
+ett piano		a piano		4
+en boll		a ball		3
+en sallad		a salad		3
+en restaurang		a restaurant		3
+en film		a film		2
+en lampa		a lamp		5
+En pensionär		A pensioner		0
+En frukost		A breakfast		3
+En klocka		A clock		4
+Ett pass		A passport		3
+Ett tuggummipaket	 A Chewing gum package		1
+En flaska		A bottle		3
+En mobiltelefon		A mobile phone		1
+En dator		A computer		3
+En bok		A book		4
+En penna		A pen		3
+En nyckel		A key		2
+En ordbok		A dictionary		3
+en kam		A comb		3
+Ett papper		A paper		3
+pengar		money/cash		0
+en läsk		a soda		3
+ett cerat		a lip salve		4
+norrsken	northern lights	0
+jättebra	very good	2
+jättedålig	very bad	2
+en gata	a street	3
+ett berg	a mountain	2
+
+ett djur	an animal	1
+en älg	a moose	2
+
+
+Ett yrke		a profession		3
+en biolog		a biologist		3
+en kemist		a chemist		3
+en polis		a police		4
+en ekonom		an economist		5
+en programmerare		a programmer		4
+en servitör		a waiter		3
+en lärare		a teacher		5
+en fotograf		a photographer		3
+en webbdesigner		a web designer		3
+en frisör		a hairdresser		1
+en busschaufför		a bus driver		4
+en sjuksköterska		a nurse		2
+en tandläkare		a dentist		3
+en advokat		a lawyer		2
+en läkare		a doctor		2
+en ingenjör		an engineer		1
+en kock		a cook		2
+ett yrke		a profession		2
+
+
+tid	time	3
+
+veckodagar	week days	1
+Måndag	Monday	2
+Tisdag	Tuesday	2
+Onsdag	Wednesday	4
+Torsdag	Thursday	1
+Fredag	Friday	3
+Lördag	Saturday	1
+Söndag	Sunday	4
+Helg	weekend	2
+
+en familj		a family		3
+en kusin	a cousin	1
+en förälder	a parent	2
+föräldrar	parents	2
+ett syskon	a sibling	1
+lillebror	little brother	3
+lillasyster	little sister	2
+storebror	big brother	2
+storasyster	big sister	3
+halvbror	half-brother	2
+halvsyster	half-sister	4
+svärmor		mother-in-law	1
+svärfar		father-in-law	3
+svåger		brother-in-law	3
+svägerska	sister-in-law	0
+systerdotter	niece (from sister)	3
+systerson	nephew (from sister)	3
+brorsdotter	niece (from brother)	0
+brorson		nephew (from brother)	4
+systrar		sisters		3
+bröder		brothers		4
+bror		brother		4
+syster		sister		3
+morbror		uncle (mother brother)		3
+farbror		uncle (father brother)		3
+moster		aunt (mother sister)		4
+faster		aunt (father sister)		4
+barnbarn		grandchild		3
+morfar		maternal grandfather		4
+farmor		paternal grandmother		4
+mamma		mother		4
+pappa		father		2
+döttrar		daughters		4
+söner		sons		1
+separerad		separated		4
+skild		divorced		3
+singel		single		3
+gift		married		3
+en bonusbarn		a stepchild		2
+en dotter		a daughter		3
+en son		a son		3
+ett barn		a child		4
+en sambo		a partner		3
+en kille		a boy		4
+en tjej		a girl		0
+en flickvän		a girlfriend		3
+en pojkvän		a boyfriend		4
+en man		a husband		4
+en fru		a wife		3
+
+-Adjektiv
+snygg snyggt snygga		pretty		3
+ful fult fula		ugly		3
+äcklig äckligt äckliga		disgusting		2
+bred brett breda		wide		2
+smal smalt smala		narrow		3
+mjuk mjukt mjuka		soft		1
+hård hårt hårda		hard		3
+ljus ljust ljusa		light		4
+mörk mörkt mörka		dark		2
+liten litet små		small		3
+stor stort stora		big		4
+kort kort korta		short		1
+modern modernt moderna		modern		3
+gammal gammalt gamla		old		4
+dyr dyrt dyra		expensive		1
+billig billigt billiga		cheap		1
+viktig viktigt viktiga		important		1
+
+prickig prickigt prickiga		spotted		1
+rutig rutigt rutiga		checkered		3
+randig randigt randiga		striped		1
+brun brunt bruna		brown		4
+orange orange orange		orange		2
+grå grått gråa		grey		3
+grön grönt gröna	green	4
+rosa rosa rosa	pink	3
+lila lila lila	purple	3
+röd rött röda	red	4
+blå blått blåa	blue	5
+gul gult gula	yellow	3
+svart svart svarta	black	6
+vit vitt vita	white	3
+
+lång långt långa	long/tall	4
+bra bra bra	good/well	2
+dålig dåligt dåliga	bad	4
+god gott goda	good	4
+ny nytt nya	new	3
+spännande spännande spännande	exciting	2
+ung ungt unga	young	3
+gammal gammalt gamla	old	4
+svår svårt svåra	difficult	4
+rolig roligt roliga	funny	3
+tråkig tråkigt tråkiga	boring	1
+sorglig sorgligt sorgliga	sad	0
+romantisk romantiskt romantiska	romantic	5
+läskig läskigt läskiga	scary	2
+intressant intressant intressant	interesting	2
+historisk historiskt historiska	historical	5
+
+engelsk engelskt engelska	english	4
+japansk japanskt japanska	japanese	3
+svensk svenskt svenska	swedish	3
+fransk franskt franska	french	4
+koreansk koreanskt koreanska	korean	4
+tysk tyskt tyska	german	6
+kinesisk kinesiskt kinesiska	chinese	3
+amerikansk amerikanskt amerikanska	american	5
+indisk indiskt indiska	indian	3
+dansk danskt danska	danish	0
+italiensk italienskt italienska	italian	4
+
+
+-Adverben
+Hur många		How many		5
+Hur mycket		How much		4
+Hur länge		For how long		4
+Hur ofta		How often		5
+Så där		So so		3
+Varför		Why		5
+När		When		4
+Vart		Where to		3
+Var		Where		2
+Vems		Whose		5
+Vem		Who		5
+Vilka		Which (plural)		4
+Hur		How		4
+Varifrån		From where		4
+Vad		What		5
